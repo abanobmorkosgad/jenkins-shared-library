@@ -7,4 +7,3 @@ def call(String imageName){
     }
 }
 
-abanobmorkos10/java-maven:1.2
