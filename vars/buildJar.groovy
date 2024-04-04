@@ -1,4 +1,4 @@
-def call{
+def call(){
     echo "Building app.."
-    sh "mvn package"
+    sh "mvn package" 
 }
